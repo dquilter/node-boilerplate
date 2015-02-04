@@ -5,7 +5,7 @@ var http = require('http');
 var host = '127.0.0.1';
 var port = 8000;
 
-// Express is a web framework for Node.js
+// Express is a web framework for Node.js. It is downloaded via NPM.
 // Provides access to a basic set of features which are needed for the majority of Node applications.
 var express = require('express');
 

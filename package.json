@@ -1,0 +1,23 @@
+{
+  "name": "nodeBoilerplate",
+  "version": "0.0.1",
+  "description": "This is a collection of heavily-commented boilerplates for various types of Node application configuration.",
+  "main": "boilerplate-node.js",
+  "dependencies": {
+    "express": "^4.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dquilter/node-boilerplate.git"
+  },
+  "author": "David Quilter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dquilter/node-boilerplate/issues"
+  },
+  "homepage": "https://github.com/dquilter/node-boilerplate"
+}
